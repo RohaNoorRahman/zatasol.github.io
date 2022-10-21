@@ -1,0 +1,361 @@
+@media all and (max-width: 1194px){
+    .seviceBoxIcon::after {    
+        left: -19%;
+    }
+    .AboutText ul::before {
+        height: calc(100% - 76px );
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width:1000px){
+    .seviceBoxIcon::after {
+        left: -20%;
+    }
+    .AboutText ul::before {
+        height: calc(72% ); 
+    }
+    .contetnQuestion p {
+        font-size: 1em;
+    }
+    .contetnQuestion h1 {
+        font-size: 2em;
+    }
+    .contetnQuestion a {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+}
+
+
+
+
+@media all and (max-width:992px){
+    .CenterText{width: 75%!important;}
+    .seviceBoxIcon::after {
+        left: 14px !important;
+    }
+
+    .servicesBox{padding: 15px 7px;}
+    .defaultService {
+	margin-top: 0;
+}
+    .seviceBoxIcon::after {
+	left: 20px;
+}
+    .countText span {
+    font-size: 1em;}
+    .AboutText ul::before {
+        height: calc(100% - 103px );
+    }
+    .teamMemberContent p {
+        font-size: .8em;
+        
+    }
+    .teamMemberContent ul li a {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        
+       
+    }
+
+
+
+
+
+}
+
+@media all and (max-width:836px){
+    .heroText {
+        width: 77%;
+        
+        margin: auto;
+        text-align: center;
+    }
+    a.defaultBtn {
+        
+        padding: 10px 30px;
+        
+    }
+    .AboutText ul::before {
+        height: calc(100% - 102px );
+    }
+    .aboutImg {
+        margin-top: 135px;
+    }
+    .footerUlsocial li a i {
+	width: 40px;
+	line-height: 40px;
+	transition: .4s;
+	height: 40px;
+	margin: 5px;
+}
+    .teamMemberContent p {
+        font-size: .8em;
+        
+    }
+    .footerUlsocial li a i {
+        
+        width: 30px;
+        line-height: 30px;
+        transition: .4s;
+        height: 30px;
+        
+        margin: 5px;
+    }
+    .footerCustom ul li a {
+        font-size: 1em;
+        
+    }
+}
+
+@media all and (max-width:766px){
+    .heroText {
+        width: 100%;
+        max-width: 100%;
+    }
+    .heroText h1 {
+        
+        font-size: 2em;
+    }
+    .CenterText {
+        width: 83% !important;
+    }
+    .container, .container-sm {
+        max-width: 640px;
+    }
+    .AboutText ul::before {
+        height: calc(100% - 82px );
+    }
+    .aboutImg {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .footerCustom {
+        margin-bottom: 46px;
+    }
+
+}
+
+@media all and (max-width:721px){
+    .seviceBoxIcon::after {
+        left: -8px !important;
+    }
+}
+
+@media all and (max-width:605px){
+    .seviceBoxIcon::after {
+        left: -19px !important;
+    }
+
+}
+
+@media all and (max-width:582px){
+    .teamMemberImg {
+        margin-top: 30px;
+    }
+    .contetnQuestion h1 {
+        font-size: 1.5em;
+    }
+    .contetnQuestion p {
+        font-size: 1.1em;
+    }
+    .seviceBoxIcon::after {
+        left: -24px!important;
+    }
+    .serviveBoxText h2 {
+        margin: 5px 0px;
+        font-size: 1.2em;
+        
+    }
+}
+
+@media all and (max-width:575px){
+    .seviceBoxIcon::after {
+        left: 115px!important;
+    }
+
+}
+
+@media all and (max-width:544px){
+    .seviceBoxIcon::after {
+        left: 106px !important;
+    }
+    .CenterText h1 {
+        font-size: 1.6em;
+    }
+    .countText span {
+        font-size: 1.2em;
+        margin-top: 13px;
+    }
+    .SingleCount {
+        margin-bottom: 30px;
+    }
+    .AboutText h1 {
+        font-size: 2em;
+        text-align: center;
+    }
+    .heroText h1 {
+        font-size: 1.6em;
+    }
+    .heroText {
+        padding: 65px 0;
+    }
+    .CountNumber span {
+        width: 110px;
+        height: 110px;
+        line-height: 110px;
+        font-size: 2.4em;
+    }
+    a.defaultBtn {
+        padding: 10px 30px;
+        display: flex;
+        justify-content: center;
+    }
+    .sectionTeam.py-5 {
+        margin-top: -90px !important;
+    }
+}
+
+@media all and (max-width:518px){
+    .heroText p {
+        font-size: 1em;
+    }
+    .seviceBoxIcon::after {
+        left: 90px !important;
+    }
+    a.defaultBtn {
+        margin-top: 42px !important;
+    }
+    .contetnQuestion p {
+        font-size: 1em;
+    }
+    .footerUlsocial li a i {
+        width: 40px;
+        line-height: 40px;
+        height: 40px;
+        margin: 7px;
+    }
+    .footerCustom ul {
+        
+        justify-content: center;
+    }
+}
+
+@media all and (max-width:468px){
+    .CenterText {
+        width: 88% !important;
+    }
+    .seviceBoxIcon::after {
+        left: 67px !important;
+    }
+    .AboutText ul::before {
+        height: calc(100% - 103px );
+    }
+    .teamMemberContent h2 {
+        font-size: 1.4em;
+    }
+    .contetnQuestion h1 {
+        font-size: 1.7em;
+        margin-bottom: 30px !important;
+    }
+}
+
+@media all and (max-width:424px){
+    .heroText h1 {
+        font-size: 1.4em;
+    }
+    .heroText p {
+        font-size: .9em;
+    }
+    .seviceBoxIcon::after {
+        left: 49px !important;
+    }
+    .footerCustom h2 {
+        font-size: 1.5em;
+        
+    }
+}
+@media all and (max-width:410px){
+    .seviceBoxIcon::after {
+        left: 34px !important;
+    }
+
+}
+@media all and (max-width:378px){
+    
+    .seviceBoxIcon::after {
+        left: 22px !important;
+    }
+    .AboutText ul::before {
+        height: calc(100% - 127px );
+    }
+
+}
+
+@media all and (max-width:339px){
+    
+    .seviceBoxIcon::after {
+        left: -5px !important;
+    }
+    .teamMemberContent h2 {
+        font-size: 1.3em;
+    }
+    .AboutText ul::before {
+        height: calc(100% - 127px );
+    }
+    .heroText h1 {
+        font-size: 1.6em;
+    }
+
+}
+
+@media all and (max-width:311px) and (min-width:250px){
+    .heroText h1 {
+        font-size: 1.5em;
+    }
+    .seviceBoxIcon::after {
+        left: -16px !important;
+    }
+    .countText span {
+        font-size: 1em;
+    }
+    .CountNumber span {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        font-size: 2em;
+    }
+    .AboutText ul::before {
+        height: calc(100% - 158px );
+    }
+    .reDial::after {
+        left: 10%;
+        width: 80%;
+    }
+    .contetnQuestion h1 {
+        font-size: 1.4em;
+    }
+    .contetnQuestion p {
+        font-size: .9em;
+    }
+    .contetnQuestion a {
+        font-size: .9em;
+    }
+    .logo {
+        width: 22%;
+    }
+}
